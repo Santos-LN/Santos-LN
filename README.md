@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Lucas Santos</h1>
 
-<!--
-**Santos-LN/Santos-LN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Especialista em SQL, Python e Análise de Dados | Construindo um futuro na área de tecnologia
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Sobre mim
+💡 Explorador do mundo dos dados, transformando informações em insights poderosos.  
+🎯 Focado em evoluir constantemente e aprimorar minhas habilidades técnicas.  
+📊 Experiência com *Banco de Dados Relacionais, *Excel*, *SQL*, *Power BI* e *Python*.  
+
+---
+
+## 🔥 Tecnologias que domino
+- *Excel*
+- *SQL*
+- *Python*
+- *Power BI*
+  
+---
+
+## 📸 Imagens Geradas Dinamicamente  
+
+<p align="center">
+  <img src="BDR.jpg" width="400px" alt="Banco de Dados Relacionais">
+  <img src="PY.jpg" width="400px" alt="Python">
+</p>
+
+---
+
+## 📫 Entre em contato
+📧 Email: [santosln29@gmail.com](mailto:seuemail@email.com)  
+💼 LinkedIn: [https://www.linkedin.com/in/lucass-dados](https://linkedin.com/in/seuperfil)  
+🌐 WA: [21971411990](https://seusite.com)
