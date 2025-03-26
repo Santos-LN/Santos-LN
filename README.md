@@ -9,7 +9,7 @@
 ## 📌 Sobre mim
 💡 Explorador do mundo dos dados, transformando informações em insights poderosos.  
 🎯 Focado em evoluir constantemente e aprimorar minhas habilidades técnicas.  
-📊 Experiência com *Banco de Dados Relacionais, *Excel*, *SQL*, *Power BI* e *Python*.  
+📊 Experiência com Banco de Dados Relacionais, *Excel*, *SQL*, *Power BI* e *Python*.  
 
 ---
 
@@ -24,8 +24,8 @@
 ## 📸 Imagens Geradas Dinamicamente  
 
 <p align="center">
-  <img src="BDR.jpg" width="400px" alt="Banco de Dados Relacionais">
-  <img src="PY.jpg" width="400px" alt="Python">
+  <img src="BDR.jpg" width="200px" alt="Banco de Dados Relacionais">
+  <img src="PY.jpg" width="200px" alt="Python">
 </p>
 
 ---
