@@ -21,7 +21,7 @@
   
 ---
 
-## 📸 Imagens Geradas Dinamicamente  
+## 📸 Banco de Dados 🔥 Python
 
 <p align="center">
   <img src="BDR.jpg" width="200px" alt="Banco de Dados Relacionais">
