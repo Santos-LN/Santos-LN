@@ -1,7 +1,7 @@
 <h1 align="center">👨‍💻 Lucas Santos 🚀</h1>
 
 <p align="center">
-  🧠 Apaixonado por Dados | 💾 Banco de Dados | 📊 Power BI | 🐍 Python <br>
+  🔵📄 Apaixonado por Dados | 💾 Banco de Dados | 📊 Power BI | 🐍 Python <br>
   Transformando dados em decisões inteligentes!
 </p>
 
@@ -22,7 +22,7 @@
 🔹 Modelagem, normalização, relacionamento e cardinalidade  
 🔹 MySQL, SQL Server  
 
-🧠 **Linguagens & Ferramentas**  
+💻 **Linguagens & Ferramentas**  
 🐍 Python (pandas, numpy, matplotlib, mysql.connector)  
 📊 Power BI (ETL, DAX, relatórios interativos)  
 📎 Excel (avançado, dashboards)  
@@ -41,7 +41,12 @@
 📌 **Portfólio Mori**  
 📽️ Vídeos gerados com IA simulando uma CEO solicitando soluções.  
 📈 Dashboard com análise de vendas, desempenho e projeções.  
-🛠️ Tecnologias usadas: SQL + Python + Power BI + CSVs
+🛠️ Tecnologias usadas: SQL + Python + Power BI + CSVs  
+
+📌 **Top Car**  
+🚗 Projeto de Power BI baseado em dados fictícios de uma franquia de lojas de veículos (física e online).  
+📊 Dashboard com análise de vendas, estoque e desempenho por loja.  
+🎓 Desenvolvido com foco educacional para praticar BI, modelagem e visualização de dados.
 
 ---
 
@@ -54,3 +59,4 @@
 ---
 
 ⭐ *Obrigado por visitar meu perfil! Me acompanhe nessa jornada de dados!*
+
