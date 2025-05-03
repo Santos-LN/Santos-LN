@@ -25,7 +25,7 @@
 💻 **Linguagens & Ferramentas**  
 🐍 Python (pandas, numpy, matplotlib, mysql.connector)  
 📊 Power BI (ETL, DAX, relatórios interativos)  
-📎 Excel (avançado, dashboards)  
+📎 Excel 
 🔍 SQL (JOINs, SELECT, INSERT, UPDATE, DELETE, procedures, views)
 
 ---
