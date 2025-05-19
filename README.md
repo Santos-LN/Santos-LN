@@ -39,6 +39,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="150px" alt="Python">
 </p>
 
+📌 **Bike_Urban**  
+🚴‍♂️ Projeto baseado em uma empresa fictícia de bicicletas urbanas.  
+🧱 Banco de dados relacional construído em MySQL com integração em Python usando Programação Orientada a Objetos (POO).  
+📦 Abrange funcionalidades de cadastro, locações, devoluções e análise dos dados.  
+🛠️ Tecnologias usadas: MySQL + Python (POO) + mysql.connector  
+
 📌 **Portfólio Mori**  
 📽️ Vídeos gerados com IA simulando uma CEO solicitando soluções.  
 📈 Dashboard com análise de vendas, desempenho e projeções.  
@@ -60,4 +66,3 @@
 ---
 
 ⭐ *Obrigado por visitar meu perfil! Me acompanhe nessa jornada de dados!*
-
