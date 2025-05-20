@@ -42,7 +42,7 @@
 📌 **Bike_Urban**  
 🚴‍♂️ Projeto baseado em uma empresa fictícia de bicicletas urbanas.  
 🧱 Banco de dados relacional construído em MySQL com integração em Python usando Programação Orientada a Objetos (POO).  
-📦 Abrange funcionalidades de cadastro, locações, devoluções e análise dos dados.  
+📦 Abrange funcionalidades de cadastro de produtos, fotos de cada ite e análise dos dados em geral. 
 🛠️ Tecnologias usadas: MySQL + Python (POO) + mysql.connector  
 
 📌 **Portfólio Mori**  
